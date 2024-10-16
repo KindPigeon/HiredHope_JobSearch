@@ -1,0 +1,139 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+.navbar{
+    width: 100%;
+    margin: auto;
+    padding: 35px 0;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background-color: aliceblue;
+    background-size: cover;
+}
+.logo{
+    width: 150px;
+    cursor: pointer;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #69443c;
+    text-transform: uppercase;
+}
+.navbar ul li::after{
+    content: '';
+    height :3px;
+    width: 0px;
+    background: #beb4aa;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.navbar ul li:hover::after{
+    width: 100%;
+}
+.navButton button{
+    width: 100px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #beb4aa;
+    background-color: #beb4aa;
+    color: #69443c;
+    cursor: pointer;
+    position: relative; 
+    overflow: hidden;   
+}
+
+body{
+    background-color: #f2f2f2;
+}
+.heading{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin:20px auto;
+}
+.heading h1{
+    font-size: 50px;
+    color: #000;
+    margin-bottom: 25px;
+    position:relative;
+}
+.heading h1::after{ 
+    content:"";
+    position: absolute; 
+    width:100%;
+    height: 5px; 
+    display: block; 
+    margin:0 auto;
+    background-color: #69443c;
+}
+.heading p{
+    font-size: 18px; 
+    color:#666;
+    margin-bottom: 35px;
+}
+.container{
+    width:90%;
+    margin:0 auto;
+    padding:10px 20px;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.about-image{
+    flex: 1;
+    margin-right: 40px;
+    overflow: hidden;
+}
+.about-image img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    transition: 0.5s ease;
+}
+.about-image:hover img{
+    transform: scale(1.1);
+}
+.about-content{
+    flex:1;
+}
+.about-content h2{
+    font-size: 23px;
+    margin-bottom: 15px;
+    color: #333;
+}
+.about-content p{
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+}
+.about-content .read-more{
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: #69443c;
+    color: #fff;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin-top: 15px;
+    transition: 0.5s ease;
+}
+.about-content .readmore:hover{
+    background-color: #69443c;
+}

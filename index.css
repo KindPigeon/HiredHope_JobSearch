@@ -1,0 +1,536 @@
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.desktop-1-child {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 111px;
+}
+.desktop-1-item {
+  top: 2px;
+  background-color: #beb4aa;
+  height: 132px;
+}
+.hiredhopelogo-icon {
+  position: absolute;
+  top: 14px;
+  left: 22px;
+  width: 104px;
+  height: 83px;
+  object-fit: cover;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 131px;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 1440px;
+  height: 63px;
+}
+.hired-hope {
+  position: absolute;
+  top: 46px;
+  left: 1213px;
+  font-size: var(--font-size-11xl);
+  line-height: 45px;
+  font-family: var(--font-inder);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 186px;
+  height: 66px;
+}
+.slice-div {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 194px;
+  left: 0;
+  width: 1440px;
+  height: 826.5px;
+  object-fit: cover;
+}
+.see-more,
+.see-more1 {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.see-more {
+  top: 606px;
+  left: 18px;
+  font-family: var(--font-patua-one);
+}
+.see-more1 {
+  top: 950px;
+  left: 15px;
+}
+.social-networking {
+  margin: 0;
+  position: absolute;
+  top: 150px;
+  left: 533px;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 400;
+  font-family: var(--font-patua-one);
+  color: var(--color-white);
+  display: inline-block;
+  width: 317px;
+}
+.line-div,
+.line-icon {
+  position: absolute;
+  top: 194px;
+  left: 1014px;
+  width: 3px;
+  height: 816px;
+}
+.line-div {
+  top: 193.5px;
+  left: 256.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 826px;
+}
+.desktop-1-child1,
+.rectangle-div {
+  position: absolute;
+  top: 232px;
+  left: 1060px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 337px;
+  height: 728px;
+}
+.desktop-1-child1 {
+  top: 217px;
+  left: 293px;
+  width: 693px;
+  height: 544px;
+}
+.add-to-your,
+.recent,
+.saved,
+.topics {
+  position: absolute;
+  top: 221px;
+  left: 22px;
+  font-family: var(--font-patua-one);
+}
+.add-to-your,
+.saved,
+.topics {
+  top: 391px;
+  left: 18px;
+}
+.add-to-your,
+.saved {
+  top: 662px;
+}
+.add-to-your {
+  top: 262px;
+  left: 1119px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+}
+.shunweidaigaku2-icon,
+.softwareengineering-icon {
+  position: absolute;
+  top: 272px;
+  left: 22px;
+  border-radius: 50%;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.shunweidaigaku2-icon {
+  top: 234px;
+  left: 324px;
+}
+.business-icon,
+.courseworktips-icon,
+.programming-icon,
+.shunweidaigaku1-icon {
+  position: absolute;
+  top: 436px;
+  left: 22px;
+  border-radius: 50%;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.business-icon,
+.courseworktips-icon,
+.shunweidaigaku1-icon {
+  top: 517px;
+}
+.business-icon,
+.shunweidaigaku1-icon {
+  top: 779px;
+  left: 18px;
+}
+.shunweidaigaku1-icon {
+  top: 698px;
+}
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4 {
+  position: absolute;
+  top: 369.5px;
+  left: 5.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 241px;
+  height: 1px;
+}
+.desktop-1-child3,
+.desktop-1-child4 {
+  top: 193.5px;
+  left: -0.5px;
+  width: 1441px;
+}
+.desktop-1-child4 {
+  top: 639.5px;
+  left: 5.5px;
+  width: 241px;
+}
+.jackson-mama,
+.jefflee-chia,
+.jollypee-malaysia,
+.kfz-malaysia {
+  position: absolute;
+  top: 327px;
+  left: 1180px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-patua-one);
+}
+.jackson-mama,
+.jefflee-chia,
+.jollypee-malaysia {
+  top: 762px;
+  left: 1173px;
+}
+.jackson-mama,
+.jefflee-chia {
+  top: 471px;
+  left: 1180px;
+}
+.jefflee-chia {
+  top: 616px;
+  left: 1193px;
+}
+.company-fast,
+.company-fast1 {
+  position: absolute;
+  top: 357px;
+  left: 1177px;
+}
+.company-fast1 {
+  top: 795px;
+  left: 1182px;
+}
+.ceo-alibobo,
+.view-all-recommendations {
+  position: absolute;
+  top: 925px;
+  left: 1087px;
+}
+.ceo-alibobo {
+  top: 501px;
+  left: 1204px;
+}
+.businessman-shunwei {
+  position: absolute;
+  top: 646px;
+  left: 1164px;
+  display: inline-block;
+  width: 217px;
+  height: 45px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 2px solid var(--color-dimgray);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: calc(50% - 121px);
+  left: 1171px;
+  border-radius: var(--br-117xl-5);
+  box-sizing: border-box;
+  width: 168px;
+  height: 61px;
+}
+.follow {
+  position: absolute;
+  top: 405px;
+  left: 1210px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray);
+}
+.desktop-1-child5 {
+  cursor: pointer;
+  border: 2px solid var(--color-dimgray);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: calc(50% + 317px);
+  left: 1170px;
+  border-radius: var(--br-117xl-5);
+  box-sizing: border-box;
+  width: 168px;
+  height: 61px;
+}
+.follow1 {
+  position: absolute;
+  top: 843px;
+  left: 1209px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray);
+}
+.desktop-1-child6 {
+  cursor: pointer;
+  border: 2px solid var(--color-dimgray);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: calc(50% + 18px);
+  left: 1171px;
+  border-radius: var(--br-117xl-5);
+  box-sizing: border-box;
+  width: 168px;
+  height: 61px;
+}
+.follow2 {
+  position: absolute;
+  top: 544px;
+  left: 1210px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray);
+}
+.desktop-1-child7 {
+  cursor: pointer;
+  border: 2px solid var(--color-dimgray);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: calc(50% + 169px);
+  left: 1170px;
+  border-radius: var(--br-117xl-5);
+  box-sizing: border-box;
+  width: 168px;
+  height: 61px;
+}
+.follow3 {
+  position: absolute;
+  top: 694px;
+  left: 1210px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray);
+}
+.jacksonmama-icon,
+.jeffleechia-icon,
+.kfz-icon {
+  position: absolute;
+  top: 327px;
+  left: 1085px;
+  width: 79px;
+  height: 78px;
+  object-fit: cover;
+}
+.jacksonmama-icon,
+.jeffleechia-icon {
+  top: 470px;
+  border-radius: 157px;
+}
+.jeffleechia-icon {
+  top: 613px;
+  border-radius: 50%;
+}
+.software-engineering {
+  position: absolute;
+  top: 287px;
+  left: 106px;
+  display: inline-block;
+  text-align: left;
+  width: 158px;
+  height: 17px;
+  mix-blend-mode: normal;
+}
+.jollypee-icon {
+  position: absolute;
+  top: 756px;
+  left: 1085px;
+  border-radius: 50%;
+  width: 79px;
+  height: 78px;
+  object-fit: cover;
+}
+.programming {
+  position: absolute;
+  top: 458px;
+  left: 100px;
+}
+.business,
+.findjob-forum {
+  position: absolute;
+  top: 795px;
+  left: 118px;
+}
+.findjob-forum {
+  top: 890px;
+  left: 96px;
+}
+.shunwei {
+  margin: 0;
+}
+.coursework-tips,
+.shunwei-daigaku {
+  position: absolute;
+  top: 705px;
+  left: 115px;
+}
+.coursework-tips {
+  top: 544px;
+  left: 100px;
+}
+.desktop-1-child8,
+.sunwayunipost-icon {
+  position: absolute;
+  left: 293px;
+  width: 693px;
+}
+.sunwayunipost-icon {
+  top: 324px;
+  height: 330px;
+  object-fit: cover;
+}
+.desktop-1-child8 {
+  top: 794px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  height: 544px;
+}
+.sdcp-icon {
+  position: absolute;
+  top: 811px;
+  left: 324px;
+  border-radius: 50%;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.desktop-1-child9 {
+  position: absolute;
+  top: 901px;
+  left: 293px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 693px;
+  height: 330px;
+}
+.shunwei-daigaku-confessions,
+.shunwei-daigaku1 {
+  position: absolute;
+  top: 825px;
+  left: 412px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-patua-one);
+}
+.shunwei-daigaku1 {
+  top: 247px;
+  left: 405px;
+}
+.hrs-ago,
+.hrs-ago1 {
+  position: absolute;
+  top: 277px;
+  left: 408px;
+}
+.hrs-ago1 {
+  top: 855px;
+  left: 412px;
+}
+.findjobforum-icon {
+  position: absolute;
+  top: 867px;
+  left: 18px;
+  border-radius: 50%;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.desktop-1-child10 {
+  position: absolute;
+  top: 684px;
+  left: 424px;
+  width: 42px;
+  height: 51px;
+  object-fit: cover;
+}
+.desktop-1-child11,
+.desktop-1-child12 {
+  position: absolute;
+  top: 686px;
+  left: 873px;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+}
+.desktop-1-child12 {
+  top: 688px;
+  left: 670px;
+  width: 43px;
+  height: 45px;
+}
+.comment,
+.like,
+.saved1 {
+  position: absolute;
+  top: 697px;
+  left: 373px;
+  font-size: var(--font-size-6xl);
+}
+.comment,
+.saved1 {
+  top: 698px;
+  left: 558px;
+}
+.saved1 {
+  top: 697px;
+  left: 805px;
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 942px;
+  left: 319px;
+  display: inline-block;
+  width: 640px;
+  height: 264px;
+}
+.text {
+  position: absolute;
+  top: 505px;
+  left: 549px;
+  font-size: 69px;
+  font-family: var(--font-otomanopee-one);
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1022px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-overlock);
+}

@@ -1,0 +1,141 @@
+body, h1, h2, p, form, label, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inder', sans-serif;
+    background-color: #f0f2f5;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #BEB4AA;
+    color: #ffffff;
+}
+
+.logo-container img {
+    width: 50px;
+    height: 50px;
+}
+
+/* Image container */
+.image-container {
+    position: relative;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}
+
+.text-over-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Sign Up */
+.signup-container {
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.signup-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.signup-container form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.signup-container form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#createAccButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #BEB4AA;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#createAccButton:hover {
+    background-color: #9e9a8c;
+}
+
+.signup-container .login-message {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.signup-container .login-message a {
+    color: #2a324c;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #BEB4AA;
+    color: #ffffff;
+}
+
+.socialmediacontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contact-us, .follow-us {
+    display: flex;
+    flex-direction: column;
+}
+
+.follow-us h2 {
+    color: #69443C;
+    margin-bottom: 10px;
+}
+
+.follow-us .logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+}
+
+.follow-us .logos img {
+    width: 30px;
+    height: 30px;
+}
+
+
+

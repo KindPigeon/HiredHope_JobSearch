@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-otomanopee-one: "Otomanopee One";
+  --font-overlock: Overlock;
+  --font-patua-one: "Patua One";
+  --font-inder: Inder;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dimgray: #69443c;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-117xl-5: 136.5px;
+}

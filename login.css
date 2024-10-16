@@ -1,0 +1,140 @@
+body, h1, h2, p, form, label, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inder', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #BEB4AA;
+    color: #ffffff;
+}
+
+.logo-container img {
+    width: 50px;
+    height: 50px;
+}
+
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.login-container h1 {
+    margin-bottom: 30px;
+}
+
+.login-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-container input[type="username"],    
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+}
+
+.loginbutton {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #69443C;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.loginbutton:active {
+    background-color: #69443C;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px)
+}
+
+.register-message {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.register-message a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.register-message a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #BEB4AA;
+    color: #ffffff;
+    margin-top: auto;
+}
+
+.socialmediacontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contact-us, .follow-us {
+    display: flex;
+    flex-direction: column;
+}
+
+.follow-us h2 {
+    color: #69443C;
+    margin-bottom: 10px;
+}
+
+.follow-us .logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+}
+
+.follow-us .logos img {
+    width: 30px;
+    height: 30px;
+}

@@ -1,13 +1,14 @@
+**Hired Hope** <br />
 This is a university project designed to demonstrate user profile management using PHP, MySQL, HTML, CSS, and JavaScript. The web app allows users to view and update their profiles with essential information such as biography, career history, education, certifications, skills, and languages.
 
-Features
+**Features** <br />
 User Authentication: Simulates user-specific profile access.
 Admin View: Admins can view and manage user profiles through a dedicated interface.
 Profile View and Update: Users can edit details like career history, education, skills, and more.
 Responsive Design: Frontend is styled with CSS for an intuitive user experience.
 Database Integration: MySQL is used to store and update user data.
 
-Technologies Used
+**Technologies Used** <br />
 Backend: PHP and MySQL
 Frontend: HTML, CSS, JavaScript
 Database: MySQL for data persistence

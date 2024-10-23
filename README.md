@@ -31,5 +31,4 @@ Admin View
 ![18WebJob](https://github.com/user-attachments/assets/4ede4e69-e445-4b2a-8fb2-3e07e1ae00a8)
 ![19WebJob](https://github.com/user-attachments/assets/7ea2ea81-b876-4211-b5c5-11c8cdc21ac7)
 ![20WebJob](https://github.com/user-attachments/assets/d5ceed3e-df10-473a-8f42-e3413ba3586e)
-![21WebJob](https://github.com/user-attachments/assets/1e5b55d8-bc25-481d-a4ac-5ffd077de66d)
 
